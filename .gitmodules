@@ -8,3 +8,6 @@
 	path = suricata
 	url = https://github.com/chifflier/suricata.git
 	branch = dev/wasm-wasmtime-v0.1
+[submodule "wasm-tls-tx-log"]
+	path = wasm-tls-tx-log
+	url = https://github.com/chifflier/wasm-tls-tx-log.git
