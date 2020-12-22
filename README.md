@@ -21,7 +21,7 @@ cd suricata
 make
 ```
 
-See [https://suricata.readthedocs.io/](Suricata's documentation) for other build options, and how to install suricata.
+See [Suricata's documentation](https://suricata.readthedocs.io/) for other build options, and how to install suricata.
 
 ## Build the TLS parser module
 
