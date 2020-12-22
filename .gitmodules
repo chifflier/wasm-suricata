@@ -1,0 +1,10 @@
+[submodule "wasm-sc-guest"]
+	path = wasm-sc-guest
+	url = https://github.com/chifflier/wasm-sc-guest.git
+[submodule "wasm-tls-parser"]
+	path = wasm-tls-parser
+	url = https://github.com/chifflier/wasm-tls-parser.git
+[submodule "suricata"]
+	path = suricata
+	url = https://github.com/chifflier/suricata.git
+	branch = dev/wasm-wasmtime-v0.1
